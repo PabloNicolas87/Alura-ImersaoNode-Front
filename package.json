@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Alura-ImersaoNode-Front",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,7 +9,7 @@
     "node": ">= 14.0.0",
     "npm": ">= 6.0.0"
   },
-  "homepage": "",
+  "homepage": "Alura-ImersaoNode-Front(HP)",
   "repository": {
     "type": "git",
     "url": ""
